@@ -8,4 +8,4 @@ Srividhya Ammanur is a data science enthusiast. **[Data Science For All is a blo
 
 
 
-[^1]:An educational blog on Doing Data Science.
+[^1]:An educational blog on Data Science.

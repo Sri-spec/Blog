@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Srividhya Ammanur is a data science enthusiast. [Data Science For All is a blog on “Doing Data Science for fun”] 1. . An educational blog on Data Science. &#8617; . |",
+          "content": "Srividhya Ammanur is a data science enthusiast. Data Science For All is a blog on “Doing Data Science for fun”. [^1]. .",
           "url": "https://sri-spec.github.io/Blog/about/",
           "relUrl": "/about/",
           "date": ""
